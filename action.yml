@@ -1,4 +1,4 @@
-name: 'Redis Server in GitHub Actions'
+name: 'Redis Server with RediSearch Module in GitHub Actions'
 description: 'Start a Redis server (on default port 6379)'
 
 branding:
